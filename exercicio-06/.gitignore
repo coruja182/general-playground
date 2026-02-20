@@ -1,0 +1,7 @@
+# Ignorar tudo
+*
+*/
+
+# Exceto o script de setup
+!setup.sh
+!.gitignore
